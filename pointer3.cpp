@@ -7,5 +7,8 @@ int main(){
     cout<<"Value is: "<< p2 <<endl;
     cout<<"Address is: "<< *p2 <<endl;
 
+    cout<<"Size of pointer is: "<< sizeof(d) <<endl;
+    cout<<"Size of integer is: "<< sizeof(p2) <<endl;
+
     return 0;
 }
