@@ -10,12 +10,8 @@ using namespace std;
         for(int i=1; i<=b; i++){
             ans=ans*a;
         }
-
         return ans;
 }
-
 int main(){
-  
   cout<<"Answer is "<<power() <<endl;
-
 }
