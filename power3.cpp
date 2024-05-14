@@ -15,11 +15,9 @@ using namespace std;
 int main(){
     int a,b;
     cin>>a>>b;
-
     int answer = power(a,b);
 
      cout<<"Answer is "<<answer<<endl;
 
      return 0;
-
 }
